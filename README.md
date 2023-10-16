@@ -11,7 +11,7 @@
 
 - 💬 Me pergunte sobre **Javascript**
 
-- ⚡ Fato: **Atuo como chefe de uma equipe de moderadores voluntários em uma das maiores publishers de jogos online do Brasil**
+- ⚡ Curiosidade: **Atuo como chefe de uma equipe de moderadores voluntários em uma das maiores publishers de jogos online do Brasil**
 
 <h3 align="left">Contato:</h3>
 <p>Se você deseja desenvolver um projeto comigo ou apenas conversar, entre em contato:</p>
