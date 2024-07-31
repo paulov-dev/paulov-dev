@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulov-dev&label=Profile%20views&color=0e75b6&style=flat" alt="paulov-dev" /> </p>
 
-- 🔭 Trabalho em **Cummins Meritor**
+- 🔭 Trabalho em **Cummins**
 
 - 🌱 Atualmente estou me graduando em **Engenharia de Software**
 
